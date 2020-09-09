@@ -1,0 +1,4 @@
+apiVersion: v2
+entries:
+  timescale:
+    - description: Deploy basic timescale
